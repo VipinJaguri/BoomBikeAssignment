@@ -22,7 +22,7 @@ Based on various meteorological surveys and people's styles, the service provide
 -  matplotlib : 3.4.3
 -  stasmodel- 0.12.2
 -  sklearn- 0.24.2
--  
+
 
 ## The company wants to know:
 
@@ -36,6 +36,7 @@ Based on various meteorological surveys and people's styles, the service provide
 -  Training the data
 -  Residual analysis
 -  Prediction and applying model on test data
+
 
 Conclusions
 -  The Temperature, year and Winter season are the three highest positively affecting Features.
